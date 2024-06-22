@@ -10,7 +10,7 @@
   
 - 👯 I’m looking to collaborate on **MERN Stack Applications**
 
-- 🤝 I’m looking for help with **Different Design Patterns**
+- 🤝 I’m also looking to collaboarate on **Front End React Applications**
 
 - 💬 Ask me about **Development**
 
